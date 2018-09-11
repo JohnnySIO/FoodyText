@@ -1,3 +1,3 @@
 public class Heure {
-	int heure;
-	int minute;
+	int heures;
+	int minutes;
