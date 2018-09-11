@@ -8,5 +8,13 @@ public Heure(int heures,int minutes) {
 	this.minutes = minutes;
 }
 
+public int getHeures() {
+	return heures;
+}
+
+public int getMinutes() {
+	return minutes;
+}
+
 }
 
